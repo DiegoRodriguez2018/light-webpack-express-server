@@ -1,4 +1,5 @@
 import _ from 'lodash';
+import styles from './stylesheets/styles.scss';
 
 function component() {
   let element = document.createElement('div');

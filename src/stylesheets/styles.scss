@@ -1,0 +1,10 @@
+h1{
+  color: darkolivegreen;
+  border: darkolivegreen 1px solid;
+  text-align: center;
+  &:hover{
+    // color:white;
+    background:lightgrey;
+
+  }
+}
